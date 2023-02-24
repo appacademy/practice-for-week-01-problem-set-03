@@ -12,11 +12,11 @@ function rotateRight(array, num) {
 }
 
 /** Comment in these logs for local testing */
-// const letters = ['a', 'b', 'c', 'd', 'e'];
+// let letters = ['a', 'b', 'c', 'd', 'e'];
 // console.log(rotateRight(letters, 2)); // [ 'd', 'e', 'a', 'b', 'c' ]
 // console.log(letters); // [ 'a', 'b', 'c', 'd', 'e' ]
 
-// const animals = ['wombat', 'koala', 'opossum', 'kangaroo'];
+// let animals = ['wombat', 'koala', 'opossum', 'kangaroo'];
 // console.log(rotateRight(animals, 3)); // [ 'koala', 'opossum', 'kangaroo', 'wombat' ]
 // console.log(animals); // [ 'wombat', 'koala', 'opossum', 'kangaroo' ]
 
